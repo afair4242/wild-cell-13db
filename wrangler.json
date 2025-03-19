@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "wild-cell-13db",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "d15a035b-bd97-4dc8-972e-b9ad9bad0f8f",
+      "database_name": "old-dew-c28f-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
